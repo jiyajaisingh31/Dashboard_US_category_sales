@@ -1,5 +1,3 @@
-# Dashboard_US_category_sales
-
 # Excel Dashboards README
 
 ## Project Overview
